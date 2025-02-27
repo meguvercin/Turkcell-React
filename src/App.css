@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.navbar-nav .nav-item .nav-link:hover {
+  color: black;
+  background-color: #f0f0f0;
+  display: flex;
+}
+
+
+body {
+  background-color: #f1f6ff;
+}
